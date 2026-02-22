@@ -1,4 +1,4 @@
-# LittleFS - A little fail-safe filesystem for embedded systems
+# LittleFS - A Little Fail-Safe filesystem for embedded systems
 
 package(default_visibility = ["//visibility:public"])
 
